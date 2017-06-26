@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "An asynchronous node app to retrieve weather information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/da8en2/nodejs_weatherapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/da8en2/nodejs_weatherapp/issues"
+  },
+  "homepage": "https://github.com/da8en2/nodejs_weatherapp#readme",
+  "dependencies": {
+    "request": "^2.73.0"
+  }
+}
